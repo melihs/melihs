@@ -20,8 +20,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Docsify: The Fast Way to Create Documents](https://medium.com/stackademic/the-fast-way-to-create-documents-docsify-b92397947512)
-- [Creating Seeding with Prisma](https://medium.com/stackademic/creating-seeding-with-prisma-b9b12b337717)
+- [The Fast Way to create documents Docsify](https://dev.to/melihs/the-fast-way-to-create-documents-docsify-4mi3)
+- [Creating Seeding with Prisma](https://dev.to/melihs/creating-seeding-with-prisma-5024)
+- [Redux and Redux Toolkit](https://dev.to/melihs/redux-and-redux-toolkit-38f4)
+- [Creating docker environment for laravel project with Devilbox](https://dev.to/melihs/creating-docker-environment-for-laravel-project-with-devilbox-614)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
