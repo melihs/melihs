@@ -20,11 +20,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Monorepo Concept](https://dev.to/melihs/monorepo-concept-4cd2)
 - [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
 - [Authentication with Firebase](https://dev.to/melihs/authentication-with-firebase-53g8)
 - [The Fast Way to create documents Docsify](https://dev.to/melihs/the-fast-way-to-create-documents-docsify-4mi3)
 - [Creating Seeding with Prisma](https://dev.to/melihs/creating-seeding-with-prisma-5024)
-- [Redux and Redux Toolkit](https://dev.to/melihs/redux-and-redux-toolkit-38f4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
