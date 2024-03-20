@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">A passionate software developer from Türkiye (not turkey)</h3>
 
-- 🌱 I’m currently learning **go, angular**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/melihsahin**
 
